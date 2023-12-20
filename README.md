@@ -1,3 +1,5 @@
+###### ANNOUNCEMENT: (The development of this repository was moved to [here](https://github.com/PD-06/Volgion), thus this repository became archived.)
+
 # 🎉・VOLGION・🎊
 <img src="https://github.com/DeffreusTheda/ComSci/assets/147963726/eb1f6827-0b64-49c4-8686-5c4e2cbe23ab" width="1000"><br>
 ###### Version: 1.1
